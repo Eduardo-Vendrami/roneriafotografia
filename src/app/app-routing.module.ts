@@ -11,11 +11,11 @@ const routes: Routes = [
     path: '',
     component: FramePageComponent,
     children: [
-      { path: '', component: HomePageComponent },
-      { path: 'jobs', component: JobsPageComponent },
-      { path: 'contact', component: ContactPageComponent }
+      { path: '', component: HomePageComponent }
     ]
-  }
+  },
+
+  { path: 'jobs', component: JobsPageComponent },
 ];
 
 @NgModule({

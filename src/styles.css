@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+.backgroung-principal {
+    background: url(./assets/images/imagem-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.uk-height-large {
+    height: 550px
+}
+
+/* .uk-button {
+    color: #dcdcdd;
+} */
+
+.footer {
+    text-align: center;
+    width: 100%;
+    height: 156px;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
