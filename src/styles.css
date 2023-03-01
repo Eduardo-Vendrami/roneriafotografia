@@ -1,13 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
-.backgroung-principal {
-    background: url(./assets/images/imagem-1.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-}
-
-.uk-height-large {
-    height: 550px
-}
 
 /* .uk-button {
     color: #dcdcdd;
